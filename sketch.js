@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(200, 300);
+  createCanvas(800, 800);
   background("pink");//função para pintar o fundo
 }
 
